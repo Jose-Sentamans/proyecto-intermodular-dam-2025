@@ -3,6 +3,7 @@ Este es un proyecto donde se evalua el aprendizaje y comprension de los conocimi
 
 ### Tecnologias utilizadas
 * draw.io
+* ChatGPT 
 
 ### Autor del Proyecto
 Jose Miguel Sentamans Dasí
